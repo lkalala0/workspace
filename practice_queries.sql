@@ -124,6 +124,7 @@ having sum(sal) > 40000;
 select job, count(ename) as total_emp from emp
 group by job
 having count(ename) > 3
+lina is done
 
 
 
